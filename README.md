@@ -56,6 +56,7 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 6: Database,Schema & Models - Mongoose
 - Episode 7: Diving into the APIs
 - Episode 8: Data Sanitization & Schema Validations
+- Episode 9: Encrypting Password
 
 
 
