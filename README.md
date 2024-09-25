@@ -58,6 +58,8 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 8: Data Sanitization & Schema Validations
 - Episode 9: Encrypting Password
 - Episode 10: Authentication,JWT and Cookies
+- Episode 11: Express Router
+- Episode 12:Indexes in MongoDB & Mongoose middleware
 
 
 
