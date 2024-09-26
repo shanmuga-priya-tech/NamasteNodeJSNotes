@@ -60,6 +60,8 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 10: Authentication,JWT and Cookies
 - Episode 11: Express Router
 - Episode 12:Indexes in MongoDB & Mongoose middleware
+- Episode 13: Ref,Populate and Thought process of writing APIs
+- Episode 14: Pagination
 
 
 
