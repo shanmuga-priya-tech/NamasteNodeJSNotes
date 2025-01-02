@@ -65,8 +65,8 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 14: Pagination
 
 
-  ## Season 3
-  - Episode 1: Deployment of frontend in AWS
+## Season 3
+- Episode 1: Deployment of frontend in AWS
 
 
 
