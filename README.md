@@ -21,6 +21,7 @@ The notes are organized by season:
 
 - **Season 1**: Introduction to Node.js, Basics of Express, RESTful APIs, etc.
 - **Season 2**: Advanced topics, Authentication, Database interactions with MongoDB, etc.
+- **Season 3**: Deployment,sending mails,cron job,etc.
 
 Each note is a scanned PDF file that covers the key concepts discussed in the respective lectures.
 
@@ -62,6 +63,10 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 12:Indexes in MongoDB & Mongoose middleware
 - Episode 13: Ref,Populate and Thought process of writing APIs
 - Episode 14: Pagination
+
+
+  ## Season 3
+  - Episode 1: Deployment of frontend in AWS
 
 
 
