@@ -67,6 +67,7 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 
 ## Season 3
 - Episode 1: Deployment of frontend in AWS
+- Episode 2: Deployment of Backend in AWS and Connecting Frontend and Backend
 
 
 
