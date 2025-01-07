@@ -70,6 +70,8 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 2: Deployment of Backend in AWS and Connecting Frontend and Backend
 - Episode 3: Adding custom domain name
 - Episode 4: Securing app secrets in .env file
+- Episode 5: Sending Emails using Amazon SES
+- Episode 6: Scheduling cron jobs
 
 
 
