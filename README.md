@@ -73,6 +73,7 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 5: Sending Emails using Amazon SES
 - Episode 6: Scheduling cron jobs
 - Episode 7: Integrating with razorpay
+- Episode 8: Web socket and Socket.io
 
 
 
