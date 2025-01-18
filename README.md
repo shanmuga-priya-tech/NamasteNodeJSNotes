@@ -74,6 +74,7 @@ Each note is a scanned PDF file that covers the key concepts discussed in the re
 - Episode 6: Scheduling cron jobs
 - Episode 7: Integrating with razorpay
 - Episode 8: Web socket and Socket.io
+- Episode 9: Building a realtime chat feature
 
 
 
